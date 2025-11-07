@@ -1,0 +1,10 @@
+alexa.amazon.com
+device-metrics-us.amazon.com
+iot.eu-west-1.amazonaws.com
+dp.amazon.com
+login.live.com
+tibia.com
+login.tibia.com
+secure.tibia.com
+yt3.ggpht.com
+youtube.googleapis.com

@@ -8,3 +8,4 @@ login.tibia.com
 secure.tibia.com
 yt3.ggpht.com
 youtube.googleapis.com
+global.hoymiles.com

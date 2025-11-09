@@ -25,7 +25,6 @@ images-na.ssl-images-amazon.com
 device-metrics.amazon.com
 device-metrics-eu.amazon.com
 device-metrics-fe.amazon.com
-
 login.live.com
 tibia.com
 tibia.com
@@ -48,8 +47,6 @@ patches.tibia.com
 community.tibia.com
 login.tibia.com
 secure.tibia.com
-yt3.ggpht.com
-youtube.googleapis.com
 global.hoymiles.com
 hoymiles.com
 www.hoymiles.com

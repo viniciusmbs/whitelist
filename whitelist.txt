@@ -1,32 +1,42 @@
-alexa.amazon.com
-device-metrics-us.amazon.com
-iot.eu-west-1.amazonaws.com
-dp.amazon.com
+# -------------------------
+# Amazon / Alexa / FireTV
+# -------------------------
 amazon.com
 www.amazon.com
+dp.amazon.com
+apicdn.amazon.com
+api.amazon.com
+api.amazonalexa.com
+alexa.amazon.com
+na.account.amazon.com
+devices.a2z.com
 alexa.na.gateway.devices.a2z.com
 alexa.na.gateway.devices.a2z.com.edgekey.net
-api.amazon.com
-apicdn.amazon.com
-devices.a2z.com
 m.media-amazon.com
+ssl-images-amazon.com
+images-na.ssl-images-amazon.com
+avs-alexa.amazon.com
 avs-alexa-na.amazon.com
 avs-alexa-eu.amazon.com
 avs-alexa-fe.amazon.com
-avs-alexa.amazon.com
-firetv-ads.amazon.com
-fls-na.amazon.com
-na.account.amazon.com
-api.amazonalexa.com
-dash-replenishment-na.amazon.com
-softwareupdates.amazon.com
-ssl-images-amazon.com
-images-na.ssl-images-amazon.com
 device-metrics.amazon.com
+device-metrics-us.amazon.com
 device-metrics-eu.amazon.com
 device-metrics-fe.amazon.com
+firetv-ads.amazon.com
+fls-na.amazon.com
+dash-replenishment-na.amazon.com
+softwareupdates.amazon.com
+iot.eu-west-1.amazonaws.com
+
+# -------------------------
+# Microsoft / Login
+# -------------------------
 login.live.com
-tibia.com
+
+# -------------------------
+# Tibia (Game & Services)
+# -------------------------
 tibia.com
 www.tibia.com
 secure.tibia.com
@@ -45,9 +55,10 @@ api.tibia.com
 downloads.tibia.com
 patches.tibia.com
 community.tibia.com
-login.tibia.com
-secure.tibia.com
-global.hoymiles.com
+
+# -------------------------
+# Hoymiles (Solar / DTU / MQTT)
+# -------------------------
 hoymiles.com
 www.hoymiles.com
 global.hoymiles.com
@@ -59,4 +70,3 @@ dtu.hoymiles.com
 mqtt.hoymiles.com
 app.hoymiles.com
 support.hoymiles.com
-

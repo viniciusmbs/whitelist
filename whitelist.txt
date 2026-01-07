@@ -70,3 +70,10 @@ dtu.hoymiles.com
 mqtt.hoymiles.com
 app.hoymiles.com
 support.hoymiles.com
+
+
+pornhub.com
+www.pornhub.com
+*.pornhub.com
+phncdn.com
+*.phncdn.com
